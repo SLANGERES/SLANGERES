@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KARAN NAUTIYAL</h1>
-<h3 align="center">A passionate Frontend Developer & Anddroid Devloper from India</h3>
+<h3 align="center">A passionate Frontend Developer & Android Devloper from India</h3>
 
 - 🌱 I’m currently learning **Android jetpacks , Cloud computing with google**
 
