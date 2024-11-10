@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KARAN NAUTIYAL</h1>
-<h3 align="center">A passionate Frontend Developer & Android Devloper from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Android jetpacks , Cloud computing with google**
+- 🌱 I’m currently learning **Android jetpacks , Devops**
 
-- 💬 Ask me about **React ,JS ,C++ ,KOTLIN**
+- 💬 Ask me about **NodeJs, React ,JS ,C++ ,KOTLIN**
 
 - 📫 How to reach me **karannautiyal22@gmail.com**
 
