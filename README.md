@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KARAN NAUTIYAL</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Android jetpacks , Devops**
+- 🌱 I’m currently learning **Cloud, Backend**
 
-- 💬 Ask me about **NodeJs, React ,JS ,C++ ,KOTLIN**
+- 💬 Ask me about **C++, Javascript, Java, NodeJS, System Designs**
 
 - 📫 How to reach me **karannautiyal22@gmail.com**
 
