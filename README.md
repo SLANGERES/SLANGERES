@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm KARAN NAUTIYAL</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Cloud, Backend**
+- 🌱 I’m currently into **Backend, GOLANG, LLM's**
 
-- 💬 Ask me about **C++, Javascript, Java, NodeJS, System Designs**
+- 💬 Ask me about **C++, Javascript, Java, NodeJS, System Designs, GOLANG**
 
-- 📫 How to reach me **karannautiyal22@gmail.com**
+- 📫 How to reach me **karannautiyalwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karan nautiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan nautiyal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-nautiyal-lin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan nautiyal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
