@@ -1,7 +1,7 @@
 ![Funny Coding GIF](./anime.gif)
 
 
-# 💫About Me:
+
 Backend dev — I make things work... eventually.<br><br>99% caffeine, 1% working code.<br><br>My favorite data structure is: panic.<br><br>Known to console.log feelings in real life.<br><br>Surviving on retries, retries, and Stack Overflow.<br><br>I once fixed a bug by renaming a variable and pretending everything was fine.
 
 
