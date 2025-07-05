@@ -1,4 +1,4 @@
-![Funny Coding GIF](./fullmetal alchemist GIF.gif)
+![Funny Coding GIF](./anime.gif)
 
 
 # 💫About Me:
